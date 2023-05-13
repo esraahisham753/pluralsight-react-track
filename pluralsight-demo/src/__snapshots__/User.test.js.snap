@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <h1>
+    User details
+  </h1>
+  Name: 
+  Cory
+  Age: 
+  old enough
+</div>
+`;
